@@ -19,7 +19,6 @@ This project requires the following Python libraries:
 - `scikit-learn`: For machine learning model operations (specifically for loading the classifier `GBC_classifier.pkl`).
 - `time`: For adding delays to mimic human interaction.
 - `classify.py`: Contains the logic to classify complaints into categories (uses `GBC_classifier.pkl`).
-- `check_labels.py`: Checks and updates complaint labels based on predefined categories.
 - `reply.py`: Generates automated replies based on complaint classification.
 
 You can install the required dependencies by running:
